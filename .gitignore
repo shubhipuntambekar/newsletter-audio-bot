@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+.idea/
+credentials.json
+PyWhatKit_DB.txt
